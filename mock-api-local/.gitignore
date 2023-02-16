@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+# "start": "json-server --watch db.json --port 3001 -m ./node_modules/json-server-auth"
 # dependencies
 /node_modules
 /.pnp
