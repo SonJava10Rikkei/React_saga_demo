@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "email": "gutrend.top@gmail.com",
+      "password": "$2a$10$GwiZ.e0ojKa7KzOkAAP3lugIy2CF4eKtUEcnko2WsPRmI62cjyIba",
+      "fullName": "son",
+      "id": 1
+    },
+    {
+      "email": "sonjapan7@gmail.com",
+      "password": "$2a$10$1hYV8G0imE6qc.MWwR9eF.0Wv/uWn0Gqpy/2s3vtGZBtsvGzl.18.",
+      "fullName": "son1123",
+      "id": 2
+    },
+    {
+      "email": "xion9xgaming@gmail.com",
+      "password": "$2a$10$X3lG6kSXYdwEBL8802iRG.BzFzYaMJlDbhtJBm28N20BHj0y8i0IG",
+      "fullName": "son11233123",
+      "id": 3
+    },
+    {
+      "email": "sonw@gmail.com",
+      "password": "$2a$10$SFvHLw5DOMvvGmezKiDp0e993/M5Ziq/IRFtyIbxROebMQtmb48Uu",
+      "fullName": "sondanh",
+      "id": 4
+    }
+  ],
+  "student": [
+    {
+      "studentId": "SV001",
+      "studentName": "Nguyen Van A",
+      "age": 20,
+      "status": true
+    },
+    {
+      "studentId": "SV002",
+      "studentName": "Nguyen Van B",
+      "age": 22,
+      "status": false
+    }
+  ]
+}
